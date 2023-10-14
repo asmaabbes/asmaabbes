@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=F71DA9&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Asma+Abbes!;" />
 </h1>
 
-<h3 align="center">A passionate software developer</h3>
 
 <br/>
 
@@ -33,8 +32,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=dart,java,html,css,javascript,typescript,php" /><br>
-    <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,firebase,mongodb,nextjs,mysql,bootstrap,laravel" /><br>
+    <img src="https://skillicons.dev/icons?i=dart,java,html,css,javascript,php" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,firebase,mongodb,mysql,bootstrap,laravel" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,androidstudio,appwrite,gitlab,ps,postman,xd" /><br>
 </div>
 
