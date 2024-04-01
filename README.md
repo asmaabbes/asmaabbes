@@ -11,9 +11,9 @@
  
  🔭 I am currently working as a Flutter developer
  
- 🌱 I’m currently learning **TypeScript, React**
+ 🌱 I’m currently learning **Kotlin**
 
- 💬 Ask me about **Flutter, Node.js, Firebase, MongoDB... or anything [here](https://github.com/asmaabbes/asmaabbes/issues)**
+ 💬 Ask me about **Flutter, Firebase... or anything [here](https://github.com/asmaabbes/asmaabbes/issues)**
  
  </div>
  
