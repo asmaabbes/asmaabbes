@@ -11,7 +11,7 @@
  
  🔭 I am currently working as a Flutter developer
  
- 🌱 I’m currently learning **Kotlin**
+ 🌱 I’m currently learning **Swift**
 
  💬 Ask me about **Flutter, Firebase... or anything [here](https://github.com/asmaabbes/asmaabbes/issues)**
  
@@ -33,7 +33,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=dart,java,html,css,javascript,php" /><br>
-    <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,firebase,mongodb,mysql,bootstrap,laravel" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,firebase,laravel" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,androidstudio,appwrite,gitlab,ps,postman,xd" /><br>
 </div>
 
